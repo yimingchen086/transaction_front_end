@@ -1,0 +1,18 @@
+{
+  "shopping": "購物",
+  "medical": "醫療",
+  "education": "教育",
+  "other_expenses": "其他消費",
+  "salary": "薪水",
+  "investments": "投資",
+  "other_income": "其他收入",
+  "food&drinks": "飲食",
+  "housing": "居家",
+  "entertainment": "娛樂",
+  "transportation": "交通",
+  "trip": "旅遊",
+  "cash": "現金",
+  "credit_card": "信用卡",
+  "prepaid_card": "儲值卡（悠遊卡，一卡通）",
+  "gift_card": "禮物卡（禮券）"
+}

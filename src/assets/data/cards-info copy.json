@@ -1,0 +1,10 @@
+[
+  { "label": "聯邦LINE BANK卡", "value": "ubot-linebank" },
+  { "label": "台新太陽卡", "value": "tsb-sun" },
+  { "label": "玉山UBEAR", "value": "esunbank-ubear" },
+  { "label": "華南i網購", "value": "華南i網購" },
+  { "label": "華南SNY", "value": "華南SNY" },
+  { "label": "永豐DAWAY", "value": "永豐DAWAY" },
+  { "label": "永豐sport", "value": "永豐sport" },
+  { "label": "Richart GOGO", "value": "Richart GOGO" }
+]

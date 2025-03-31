@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "baseUrl": "src", // 基準路徑，通常設置為 "src"
+    "paths": {
+      "app/*": ["app/*"] // 定義 "app" 路徑別名
+    }
+  }
+}

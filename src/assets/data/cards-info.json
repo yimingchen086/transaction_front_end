@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "聯邦LINE BANK卡",
+    "bank": "聯邦",
+    "maxConsume": 10000,
+    "currAmount": 0,
+    "description": "國內1%無上限，電商、影音加碼3%",
+    "store": "momo、PChome、蝦皮、酷澎",
+    "rewardsType": "信用卡折抵",
+    "dateRange": "2024/8/1~2025/7/31",
+    "postingDate": "1"
+  },
+  {
+    "id": 2,
+    "name": "永豐DAWAY",
+    "bank": "永豐",
+    "maxConsume": 20000,
+    "currAmount": 0,
+    "description": "line pay",
+    "store": "line pay",
+    "rewardsType": "line points",
+    "dateRange": "2025/1/1~2025/6/30",
+    "postingDate": "1"
+  }
+]
