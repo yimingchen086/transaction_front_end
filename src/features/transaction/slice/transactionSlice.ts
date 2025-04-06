@@ -11,6 +11,7 @@ const initialState: {
     transaction_method_id: 0,
     transaction_title: '',
     amount: 0,
+    actual_amount: 0,
     category_id: 0,
     transaction_time: null,
     card_id: 0,

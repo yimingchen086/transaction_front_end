@@ -3,13 +3,15 @@ import { Box } from '@chakra-ui/react';
 // import Counter from './features/counter/index';
 // import Cards from '@/features/card/index';
 import Transaction from '@/features/transaction/index';
+import Login from '@/features/User/index';
 import './App.css';
 
 function App() {
   return (
-    <Box bg='white' w='100%' padding='24px'>
+    <Box bg='white' w='100%' padding='48px'>
       {/* <Cards /> */}
-      <Transaction />
+      <Login />
+      {/* <Transaction /> */}
     </Box>
   );
 }
