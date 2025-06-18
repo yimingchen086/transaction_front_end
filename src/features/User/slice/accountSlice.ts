@@ -1,6 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { GoogleAccountInfo } from 'features/User/types/accountInfo';
-import { loginGoogle } from 'features/User/action';
+import { GoogleAccountInfo } from '@/features/user/types/accountInfo';
+import { loginGoogle } from '@/features/user/action';
 
 const initialState: {
   googleUserInfo: GoogleAccountInfo;

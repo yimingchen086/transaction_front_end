@@ -3,7 +3,7 @@ import counterReducer from 'features/counter/counterSlice';
 import cardReducer from '@/features/card/cardSlice';
 import categoryReducer from '@/features/transaction/slice/categorySlice';
 import methodReducer from '@/features/transaction/slice/methodSlice';
-import userReducer from '@/features/User/slice/accountSlice';
+import userReducer from '@/features/user/slice/accountSlice';
 
 export const store = configureStore({
   reducer: {
